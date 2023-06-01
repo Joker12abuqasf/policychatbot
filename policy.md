@@ -15,10 +15,10 @@
 <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
 </li>
 <li>
-<p><strong>Application</strong> refers to MC ChatBot, the software program provided by the Company.</p>
+<p><strong>Application</strong> refers to MC Chat AI, the software program provided by the Company.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to   MC ChatBot.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to   MC Chat AI.</p>
 </li>
 <li>
 <p><strong>Country</strong> refers to:  Yemen</p>
@@ -133,13 +133,13 @@ Advertising partners and other third parties may use cookies, scripts and/or web
 <h1>Children's Privacy</h1>
 <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
 <p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
-<h1>Disclaimer for   MC ChatBot</h1>
+<h1>Disclaimer for   MC Chat AI</h1>
 
-<p>We are doing our best to prepare the content of this app. However,   MC ChatBot cannot warranty the expressions and suggestions of the contents, as well as its accuracy. In addition, to the extent permitted by the law,  MC ChatBot shall not be responsible for any losses and/or damages due to the usage of the information on our app. </p>
+<p>We are doing our best to prepare the content of this app. However,   MC Chat AI cannot warranty the expressions and suggestions of the contents, as well as its accuracy. In addition, to the extent permitted by the law,  MC Chat AI shall not be responsible for any losses and/or damages due to the usage of the information on our app. </p>
 
 <p>By using our app, you hereby consent to our disclaimer and agree to its terms.</p>
 
-<p>Any links contained in our app may lead to external sites are provided for convenience only. Any information or statements that appeared in these sites or app are not sponsored, endorsed, or otherwise approved by   MC ChatBot. For these external sites,   MC ChatBot cannot be held liable for the availability of, or the content located on or through it. Plus, any losses or damages occurred from using these contents or the internet generally.</p>
+<p>Any links contained in our app may lead to external sites are provided for convenience only. Any information or statements that appeared in these sites or app are not sponsored, endorsed, or otherwise approved by   MC Chat AI. For these external sites,   MC Chat AI cannot be held liable for the availability of, or the content located on or through it. Plus, any losses or damages occurred from using these contents or the internet generally.</p>
 <h1>Links to Other Websites</h1>
 <p>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
